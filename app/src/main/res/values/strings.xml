@@ -2,4 +2,8 @@
     <string name="app_name">LLista de coses a fer</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="guardar">Guardar</string>
+    <string name="hint_quantes_coses">Quantitat?</string>
+    <string name="mes_informacio">detalls</string>
+    <string name="hint_quina_cosa">Que falta?</string>
 </resources>
