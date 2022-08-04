@@ -2,4 +2,11 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/navigation" />
+    android:id="@+id/navigation"
+    app:startDestination="@id/materialAddFragment2">
+    <fragment
+        android:id="@+id/materialAddFragment2"
+        android:name="lab.clnx.llistadecosesafer.materialAdd.materialAddFragment"
+        android:label="fragment_material_add"
+        tools:layout="@layout/fragment_material_add" />
+</navigation>
