@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/cosaAddFragment">
+
+    <fragment
+        android:id="@+id/cosaAddFragment"
+        android:name="lab.clnx.llistadecosesafer.CosaAddFragment"
+        android:label="fragment_cosa_add"
+        tools:layout="@layout/fragment_cosa_add" />
+</navigation>
